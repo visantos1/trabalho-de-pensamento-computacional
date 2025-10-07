@@ -1,5 +1,5 @@
 header {
-background-color: green;
+background-color: rgb(230, 43, 11);
 color: white;
 padding: 20px;
 text-align: center;
@@ -10,7 +10,7 @@ font-size: 16px;
 color: black;
 }
 footer {
-background-color: blue;
+background-color: rgb(219, 13, 13);
 color: white;
 padding: 10px;
 text-align: center;
