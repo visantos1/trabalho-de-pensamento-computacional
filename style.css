@@ -1,6 +1,6 @@
 header {
 background-color: rgb(230, 43, 11);
-color: white;
+color: rgb(0, 0, 0);
 padding: 20px;
 text-align: center;
 }
@@ -11,7 +11,7 @@ color: black;
 }
 footer {
 background-color: rgb(219, 13, 13);
-color: white;
+color: rgb(255, 210, 9);
 padding: 10px;
 text-align: center;
 margin: 0 1.5cm;
